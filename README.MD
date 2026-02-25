@@ -1,3 +1,3 @@
 # My new Website
 
-## Web programming with pyrhon - Django
+## Web programming with python - Django
