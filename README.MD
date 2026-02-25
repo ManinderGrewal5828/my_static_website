@@ -2,4 +2,4 @@
 
 ## Web programming with python - Django
 
-This is the randon text
+This is the random text
